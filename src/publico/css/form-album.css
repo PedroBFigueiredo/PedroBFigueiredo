@@ -1,0 +1,22 @@
+body{
+    padding: 20px;
+}
+
+h2{
+    text-align: center;
+}
+
+.div-tab{
+    background-color: #F28157;
+    padding: 10px;
+}
+
+.div-botao{
+    padding-top: 10px;
+}
+
+.div-toast{
+    font-size: 15px;
+    font-weight: bold;
+    color: orangered;
+}
